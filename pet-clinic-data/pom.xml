@@ -3,7 +3,7 @@
     <parent>
         <artifactId>petclinic</artifactId>
         <groupId>Springpetclinic</groupId>
-        <version>0.0.1</version>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -60,10 +60,4 @@
             </plugin>
         </plugins>
     </build>
-
-
-
-  <scm>
-    <tag>petclinic-0.0.1</tag>
-  </scm>
 </project>
