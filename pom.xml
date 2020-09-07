@@ -14,12 +14,11 @@
     </parent>
     <groupId>Springpetclinic</groupId>
     <artifactId>petclinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>petclinic</name>
     <description>Demo project for petclinic</description>
 
     <properties>
-        <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
         <java.version>1.8</java.version>
     </properties>
 
@@ -44,5 +43,6 @@
 <scm>
     <developerConnection>scm:git:git@github.com:Premsp-kumar/petclinic.git</developerConnection>
 
+    <tag>petclinic-0.0.1</tag>
   </scm>
 </project>
