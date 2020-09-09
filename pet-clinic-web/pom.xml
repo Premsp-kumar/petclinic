@@ -11,7 +11,7 @@
     <dependencies>
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
-            <groupId>petclinic</groupId>
+            <groupId>Springpetclinic</groupId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
@@ -44,11 +44,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-
     </dependencies>
 
-
-  <scm>
-    <tag>petclinic-0.0.1</tag>
-  </scm>
 </project>
