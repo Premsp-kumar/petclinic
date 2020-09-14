@@ -10,4 +10,5 @@ public class Speciality extends  BaseEntity{
     public void setDescription(String description) {
         this.description = description;
     }
+
 }
